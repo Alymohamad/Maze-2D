@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{05F9F80A-90A4-B1C8-84FF-0B85CD5D5BFE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/3rdPerson+Fly/Scripts/PlayerScripts/BasicBehaviour.cs">
+    <Files>
+      <File FileName="../../../unity_maze/Assets/FirstPersion AIO Pack/FirstPersonAIO/FirstPersonAIO.cs" Line="333" Column="41" />
+      <File FileName="Assets/Scripts/ScoreController.cs" Line="15" Column="6" />
+      <File FileName="Assets/Scripts/FinishAreaController.cs" Line="25" Column="18" />
+      <File FileName="Assets/Scripts/CameraPosition.cs" Line="18" Column="36" />
+      <File FileName="Assets/Scripts/MazeRenderer.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/WinningTextController.cs" Line="4" Column="1" />
+      <File FileName="Assets/3rdPerson+Fly/Scripts/PlayerScripts/MoveBehaviour.cs" Line="159" Column="79" />
+      <File FileName="Assets/3rdPerson+Fly/Scripts/PlayerScripts/BasicBehaviour.cs" Line="18" Column="96" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="unity_maze" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="3rdPerson+Fly" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="PlayerScripts" expanded="True">
+                    <Node name="BasicBehaviour.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="FirstPersion AIO Pack" expanded="True">
+                <Node name="FirstPersonAIO" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1ca1ef42-a8d0-4320-bd07-d7455fef2dcd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/elzaidy/Documents/Uni/game dev/2d and 3d/2d/unity_maze/Assets/Scripts/FinishAreaController.cs" relfile="Assets/Scripts/FinishAreaController.cs" line="33" column="1" />
+      <Breakpoint file="/Users/elzaidy/Documents/Uni/game dev/2d and 3d/2d/unity_maze/Assets/Scripts/MazeRenderer.cs" relfile="Assets/Scripts/MazeRenderer.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
